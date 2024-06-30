@@ -1,0 +1,8 @@
+.mapsContent {
+  display: flex;
+}
+
+.mapsSelection {
+  cursor: pointer;
+  padding: 10px 40px;
+}
